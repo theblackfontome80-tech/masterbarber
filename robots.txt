@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Remplacez masterbarber.rayantriki.com par l'adresse définitive du site
 Sitemap: https://masterbarber.rayantriki.com/sitemap.xml
